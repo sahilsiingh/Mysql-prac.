@@ -3,7 +3,7 @@ USE ONEPIECE;
 
 CREATE TABLE CHARACTERS (
     name VARCHAR(25) PRIMARY KEY,                  
-    age INT NOT NULL,                           
+    age INT NOT NULL,                            
     role VARCHAR(25)   
 ); 
 
