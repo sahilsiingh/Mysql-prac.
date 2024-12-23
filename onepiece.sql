@@ -5,7 +5,7 @@ CREATE TABLE CHARACTERS (
     name VARCHAR(25) PRIMARY KEY,                  
     age INT NOT NULL,                           
     role VARCHAR(25)   
-);
+); 
 
 INSERT INTO CHARACTERS
 (name, age , role)
