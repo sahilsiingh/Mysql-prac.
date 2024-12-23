@@ -2,7 +2,7 @@ CREATE DATABASE ONEPIECE;
 USE ONEPIECE;
 
 CREATE TABLE CHARACTERS (
-    name VARCHAR(25) PRIMARY KEY,                  
+    name VARCHAR(25) PRIMARY KEY,                   
     age INT NOT NULL,                            
     role VARCHAR(25)   
 ); 
